@@ -93,4 +93,11 @@ footer {
 .github-button:hover {
     background-color: #3E5879;
 }
- 
+.Perfil
+{
+    width: 350px;
+    height: 400px;
+    background-size: cover;
+    border-radius: 50%;
+    border: 5px solid rgb(25, 47, 11);
+}
